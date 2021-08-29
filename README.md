@@ -1,2 +1,3 @@
 # Coronavirus-Countries
-Details of Countries affected by Coronavirus
+The code is written in Python
+It scrapes the web and get details of Countries affected by Coronavirus
